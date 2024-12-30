@@ -1,12 +1,11 @@
-# CodeIgniter 4 Framework
+# BlogSayfası - CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
+CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure.  
 More information can be found at the [official site](https://codeigniter.com).
 
-This repository holds the distributable version of the framework.
-It has been built from the
+This repository holds the distributable version of the framework. It has been built from the
 [development repository](https://github.com/codeigniter4/CodeIgniter4).
 
 More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
@@ -27,11 +26,10 @@ framework are exposed.
 
 ## Repository Management
 
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
+We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.  
+We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss FEATURE REQUESTS.
 
-This repository is a "distribution" one, built by our release preparation script.
+This repository is a "distribution" one, built by our release preparation script.  
 Problems with it can be raised on our forum, or as issues in the main repository.
 
 ## Contributing
